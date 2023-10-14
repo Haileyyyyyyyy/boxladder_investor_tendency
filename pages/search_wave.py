@@ -5,7 +5,7 @@ import time
 import elasticsearch
 ####### ------- streamlit ------- ########
 
-st.title("💨 Fast Investor Search️")
+st.title("Fast Investor Search️")
 st.info("The 'Investment Firm Search Engine' service is an online tool that leverages the latest investment firm information to help investors quickly and efficiently find the investment firms they are looking for. \n \n 이 서비스는 최신 투자 회사 정보를 활용하여 투자자가 빠르고 효율적으로 원하는 투자 회사를 찾을 수 있도록 도와주는 검색엔진입니다.\n\n This service provides various keyword and filter options to search for and compare investment firms. \n\n 다양한 키워드 및 필터 옵션을 제공하여 투자 회사를 검색하고 비교할 수 있도록 합니다 ", icon="🌐")
 # st.info("이 서비스는 최신 투자 회사 정보를 활용하여 투자자가 빠르고 효율적으로 원하는 투자 회사를 찾을 수 있도록 도와주는 검색엔진입니다. \n \n 다양한 키워드 및 필터 옵션을 제공하여 투자 회사를 검색하고 비교할 수 있도록 합니다.",icon="🌐")
 
